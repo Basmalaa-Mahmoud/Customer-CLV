@@ -6,7 +6,7 @@
 1. High-value customer segments (Outliers)
 2. Profitability drivers
 3. Customer behavior patterns
-4 .Policy performance
+4. Policy performance
 5. Risk and retention indicators
 
 ## Key KPIs
