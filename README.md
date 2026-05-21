@@ -16,7 +16,7 @@
 * Outlier Customers: 475 (5.2%) | Outlier CLV: 14M (20%) | Outlier Claims: 265.1K (6.7%)
 
 ## Indirect Insights
-* you don't need to wait 5 years for a customer to become "valuable"—they are valuable from Day 1 (consistent CLV across tenure groups)
+* no don't need to wait 5 years for a customer to become "valuable"—they are valuable from Day 1 (consistent CLV across tenure groups)
 * While demographics like income don't predict value, the monthly premium is more correlated with a customer's long-term worth
 * Premium Quality (Double-Policy) matters more than Policy Quantity for CLV
 * Double-Policy segment drives higher profitability than total customer volume
